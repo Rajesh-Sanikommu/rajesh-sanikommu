@@ -6,8 +6,8 @@
 - 📫 How to reach me **rajeshreddie21@gmail.com, https://www.linkedin.com/in/rajeshreddy21/**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajeshwara reddy sanikommu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeshwara reddy sanikommu" height="30" width="40" /></a>
+<p align="left"> 
+<a href="https://linkedin.com/in/rajeshreddy21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeshwara reddy sanikommu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
