@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Rajeshwara Reddy Sanikommu</h1>
+<h1 align="center">Hey 👋, I'm Rajesh </h1>
 <h3 align="center">A Passionate Data Enthusiast</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajeshreddy2000](https://github.com/rajeshreddy2000), https://rajeshreddie21.wixsite.com/rajeshsanikommu
