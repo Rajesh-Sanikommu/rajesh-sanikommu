@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Rajesh </h1>
 <h3 align="center">A Passionate Data Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [[https://github.com/rajesh-sanikommu](https://github.com/Rajesh-Sanikommu)], https://rajeshreddie21.wixsite.com/rajeshsanikommu
+- 👨‍💻 All of my projects are available at [[https://github.com/rajesh-sanikommu](https://github.com/Rajesh-Sanikommu)]
 
-- 📫 How to reach me **rajeshreddie21@gmail.com, https://www.linkedin.com/in/rajeshreddy21/**
+- 📫 How to reach me **rajeshreddie21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
